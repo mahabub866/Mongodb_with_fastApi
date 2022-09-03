@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic[email]
+motor
+# pymongo  to connect mongodb
+# motor
+# pymongo
+# pymongo[srv]
+
+
+# pydantic

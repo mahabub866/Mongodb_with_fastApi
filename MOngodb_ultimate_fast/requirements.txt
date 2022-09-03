@@ -1,0 +1,7 @@
+fastapi
+# pymongo  to connect mongodb
+# pymongo
+# pymongo[srv]
+uvicorn
+motor
+# pydantic
