@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="F:\Project\Python\FastApi\Mongo_with_FastApi_All_Project\Mongo_You7v\fast-env"
+VIRTUAL_ENV="D:\FASTAPI\Mongodb_with_fastApi\Mongo_You7v\fast-env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

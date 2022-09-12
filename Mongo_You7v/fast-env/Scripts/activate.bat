@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=F:\Project\Python\FastApi\Mongo_with_FastApi_All_Project\Mongo_You7v\fast-env
+set VIRTUAL_ENV=D:\FASTAPI\Mongodb_with_fastApi\Mongo_You7v\fast-env
 
 if not defined PROMPT set PROMPT=$P$G
 
